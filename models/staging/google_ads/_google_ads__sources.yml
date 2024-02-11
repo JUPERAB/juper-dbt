@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: google_ads
+    description: Replica of google_ads schema
+    database: individualproject-398014
+    schema: analytics_401142256
+    
+    tables:
+      - name: p_ads_KeywordBasicStats_6682792847
+      - name: p_ads_Keyword_6682792847
+      - name: p_ads_Campaign_6682792847
+      - name: p_ads_AdGroup_6682792847

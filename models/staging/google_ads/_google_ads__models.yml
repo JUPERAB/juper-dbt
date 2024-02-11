@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_google_ads__adgroup
+    description: Staging model for Google Ads Ad Groups data.
+  - name: stg_google_ads__campaign
+    description: Staging model for Google Ads Campaigns data.
+  - name: stg_google_ads__keyword
+    description: Staging model for Google Ads Keywords data.
+  - name: stg_google_ads__keyword_basic_stats
+    description: Staging model for basic statistics of Google Ads Keywords.
