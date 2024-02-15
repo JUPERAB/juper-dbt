@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: ga_4
+    description: Replica of ga_4 schema
+    database: individualproject-398014
+    schema: ga_4_events_raw
+    
+    tables:
+      - name: device_browser
+      - name: geo_locations
+      - name: new_users
+      - name: pages
+      - name: session_duration
+      - name: traffic_sources
+      - name: user_engagement
