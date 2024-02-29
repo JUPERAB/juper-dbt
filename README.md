@@ -1,3 +1,3 @@
 # juper-dbt
-DBT projekt via Bigquery
+DBT project via Bigquery
 Inital start of the new standard of analysing data with dbt
